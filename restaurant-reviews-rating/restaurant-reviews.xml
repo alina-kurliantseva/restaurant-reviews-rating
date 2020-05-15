@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurants>
+    <restaurant status="reviewed">
+        <name>Laughing Man</name>
+        <logo>Visit the Laughing Man</logo>
+        <image>
+            <file>laughing-man.gif</file>
+            <width unit="pixel">50</width>
+            <length unit="pixel">200</length>
+        </image>
+        <location>
+            <address>2100 Lakeview Road</address>
+            <city>Kanata</city>
+            <province>Ontario</province>
+            <postalCode>K2K 2K7</postalCode>
+        </location>
+        <phone>
+          <areaCode>613</areaCode>
+          <number>1234567</number>
+        </phone>
+        <rating max="5" min="0">3</rating>
+        <date>
+            <day>10</day>
+            <month>1</month>
+            <year>2015</year>
+        </date>
+        <reviewer>Hunter S. Thompson</reviewer>
+        <summary>Laughing Man is no stranger to praise, consistently ranked one of the best restaurants in the city. A place to see and be seen, it’s ideal for celebrating a special occasion.</summary>
+        <menu>
+            <appetizers>
+                <appetizer>
+                    <name>Crab cakes with a creamy dill sauce served with crispy herbed fries</name>
+                    <price currency="CAD">23</price>
+                </appetizer>
+                <appetizer>
+                    <name>Garden vegetable soup with chocolate sauce</name>
+                    <price currency="CAD">15</price>    
+                </appetizer>
+          </appetizers>
+          <entrees>
+              <entree>
+                  <name>Braised jumbo sea scallops on a sun-dried roast tomato base</name>
+                  <price currency="CAD">39</price>   
+              </entree>
+              <entree>
+                  <name>Free-range chicken breast stuffed with morels in a brandy sauce</name>
+                  <price currency="CAD">31</price>
+              </entree>
+              <entree>
+                  <name>Roast pork loin on a bed of garlic ginger apple slaw</name>
+                  <price currency="CAD">34</price>
+              </entree>
+            </entrees>
+        </menu>
+    </restaurant>
+    <restaurant status="reviewed">
+        <name>Gong&#39;s Asian Cuisine</name>
+        <logo></logo>
+        <image>
+            <file>gong-asian-cuisine.gif</file>
+            <width unit="pixel">150</width>
+            <length unit="pixel">250</length>
+        </image>
+        <location>
+            <address>1385 Woodroffe Avenue</address>
+            <city>Ottawa</city>
+            <province>Ontario</province>
+            <postalCode>K2G 1V8</postalCode>
+        </location>
+        <phone>
+          <areaCode>613</areaCode>
+          <number>7274723</number>
+        </phone>
+        <rating max="5" min="0">5</rating>
+        <date>
+            <day>3</day>
+            <month>1</month>
+            <year>2015</year>
+        </date>
+        <reviewer>Brenda P. Smith</reviewer>
+        <summary>Supplement your meal with something from their immense wine list or the extensive range of original cocktails.</summary>
+        <menu>
+            <appetizers>
+                <appetizer>
+                    <name>Egg Roll</name>
+                    <price currency="CAD" quantity="12">15</price>
+                </appetizer>
+                <appetizer>
+                    <name>Spring Roll</name>
+                    <price currency="CAD" quantity="12">18</price>
+                </appetizer>
+                <appetizer>
+                    <name>Shrimp Chips</name>
+                    <price currency="CAD">2.5</price>
+                </appetizer>
+                <appetizer>
+                    <name>Fried Noodles</name>
+                    <price currency="CAD">1</price>
+                </appetizer>
+                <appetizer>
+                    <name>Sweet &#38; Sour Fried Wonton Skin</name>
+                    <price currency="CAD" quantity="12">3.5</price>
+                </appetizer>
+            </appetizers>
+            <entrees>
+                <entree>
+                    <name>Scallops with Vegetables</name>
+                    <price currency="CAD">14.95</price>
+                </entree>
+                <entree>
+                    <name>Sweet and Sour Fish Cantonese Style</name>
+                    <price currency="CAD">13.95</price>
+                </entree>
+                <entree>
+                    <name>Shrimps with Vegetables</name>
+                    <price currency="CAD">12.95</price>
+                </entree>
+                <entree>
+                    <name>Beef with Mushrooms</name>
+                    <price currency="CAD">10.25</price>
+                </entree>
+                <entree>
+                    <name>Beef with Tomatoes</name>
+                    <price currency="CAD">10.25</price>
+                </entree>
+                <entree>
+                    <name>Beef with Broccoli</name>                 
+                    <price currency="CAD">10.25</price>              
+                </entree>
+            </entrees>
+        </menu>
+    </restaurant>
+</restaurants>
